@@ -12,6 +12,10 @@
 - HTML
 - CSS
 
+# FERRAMENTAS
+
+- VSCode
+- Nodejs
 
 # CONTATO
 
