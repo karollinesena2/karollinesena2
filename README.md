@@ -2,8 +2,8 @@
 
 - :woman_technologist: Olá eu me chamo Anna Karolline
 - :heartbeat: 	:computer: Amo tecnologia, e estou estudando JavaScript, HTML, CSS, Angular 2.
-- :briefcase: :mag_right:	 Estou em busca de uma oportunidade de trabalho na area de desenvolvimento, só preciso de uma oportunidade para mostrar o meu potencial. 
-- :smiling_face_with_three_hearts: Sou muito comunicativa, sou curiosa e tenho interesse e facilidade em aprender coisas novas. 
+- :briefcase: :mag_right:	 Estou em busca de uma oportunidade de trabalho na area de desenvolvimento, para agregar conhecimento e mostrar o meu potencial. 
+- :smiling_face_with_three_hearts: Sou muito comunicativa, sou curiosa e tenho interesse em aprender coisas novas. 
 
 # LINGUAGEM 	
 
@@ -11,12 +11,13 @@
 - Angular 2
 - HTML
 - CSS
+- JAVA
 
 # FERRAMENTAS
 
 - VSCode
 - Nodejs
-
+- IntellJ 
 # CONTATO
 
 - :e-mail: E-mail: Karollinesena@hotmail.com 
