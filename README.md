@@ -17,7 +17,8 @@
 
 - VSCode
 - Nodejs
-- IntellJ 
+- IntellJ IDEA 
+
 # CONTATO
 
 - :e-mail: E-mail: Karollinesena@hotmail.com 
