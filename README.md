@@ -17,7 +17,9 @@
 
 - VSCode
 - Nodejs
-- IntellJ IDEA 
+- IntellJ IDEA
+- Maven 
+- jUnit 
 
 # CONTATO
 
