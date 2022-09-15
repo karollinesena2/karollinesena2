@@ -1,7 +1,7 @@
 # PERFIL
 
 - :woman_technologist: Olá eu me chamo Anna Karolline
-- :heartbeat: 	:computer: Amo tecnologia, e estou estudando JavaScript, HTML, CSS, Angular 2 e JAVA.
+- :heartbeat: 	:computer: Amo tecnologia, possuo conhecimentos em JavaScript, HTML, CSS, Angular 2, JAVA, SQL.
 - :briefcase: :mag_right:	 Estou em busca de uma oportunidade de trabalho na area de desenvolvimento, para agregar conhecimento e mostrar o meu potencial. 
 
 
