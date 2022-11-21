@@ -31,5 +31,5 @@
 # CONTATO
 
 - :e-mail: E-mail: Karollinesena@hotmail.com 
-- LikedIn: https://www.linkedin.com/in/annakarollinesena/
+- :computer: LikedIn: https://www.linkedin.com/in/annakarollinesena/
 - :iphone: Whatsapp: https://api.whatsapp.com/send?phone=5565981134772
