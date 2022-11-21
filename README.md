@@ -1,7 +1,7 @@
 # PERFIL
 
-- :woman_technologist: Olá eu me chamo Anna Karolline
-- :heartbeat: 	:computer: Apaixonada por tecnologia.
+- :woman_technologist: Olá eu me chamo Anna Karolline e estou a 1 ano atuando como Dev. Fullstack 
+- :heartbeat: 	:computer: Sou apaixonada por tecnologia.
 - :briefcase: :mag_right:	 Busco estar em constante desenvolvimento.  
 
 
