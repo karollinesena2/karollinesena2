@@ -14,7 +14,7 @@
 - JAVA
 - NodeJs
 - React e ReactNative
-- -SQL
+- SQL server
 
 # FERRAMENTAS
 
@@ -31,5 +31,5 @@
 # CONTATO
 
 - :e-mail: E-mail: Karollinesena@hotmail.com 
-- likedin: https://www.linkedin.com/in/annakarollinesena/
+- likedIn: https://www.linkedin.com/in/annakarollinesena/
 - :iphone: Whatsapp: https://api.whatsapp.com/send?phone=5565981134772
