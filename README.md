@@ -1,7 +1,7 @@
 # PERFIL
 
 - :woman_technologist: Olá eu me chamo Anna Karolline
-- :heartbeat: 	:computer: Amo tecnologia.
+- :heartbeat: 	:computer: Apaixonada por tecnologia.
 - :briefcase: :mag_right:	 Busco estar em constante desenvolvimento.  
 
 
